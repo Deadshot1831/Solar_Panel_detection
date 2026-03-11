@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="solar_panels_b1" id="solar_panels_b1">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>solar_panels_b1</name>
+  <Placemark id="solar_panels_b1.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#solar_panels_b1">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.4508285174499,14.2535374900786 77.4508043439134,14.2516722100697 77.4461511294096,14.2517333217049 77.4461249387088,14.2535142893573 77.4508285174499,14.2535374900786</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="solar_panels_b1.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#solar_panels_b1">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.446142399176,14.2516809403033 77.450813074147,14.251646019369 77.4508043439134,14.2498388610157 77.4461670666791,14.2499081511187 77.446142399176,14.2516809403033</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="solar_panels_b1.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#solar_panels_b1">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.4509265671836,14.253671433562 77.4550404452434,14.2536589941101 77.4551312382777,14.2510418724684 77.4508677056407,14.2510886602065 77.4509265671836,14.253671433562</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="solar_panels_b1.4">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#solar_panels_b1">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.4508618571735,14.2510477209357 77.4551838744831,14.2509950847303 77.4551694607087,14.2489396469559 77.4508479950813,14.2497515586798 77.4508618571735,14.2510477209357</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
