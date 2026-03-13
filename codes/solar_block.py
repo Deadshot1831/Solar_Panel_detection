@@ -524,7 +524,7 @@ def main():
     run_overlap_tile_for_all_blocks(
         kml_path=KML_PATH,
         api_key=API_KEY,
-        API_KEY = "AIzaSyDTg790iZlfKpDScxDQ9FMxSG0oPH8Oe8M" ,
+        API_KEY = "Use your own API key" ,
         zoom=ZOOM,
         image_px=IMAGE_PX,
         scale=SCALE,
